@@ -75,8 +75,3 @@ while playing_game:
     if answer == "no":
         print("Thanks for playing! Have a good day!")
         playing_game = False
-        
-        
-    
-
-
